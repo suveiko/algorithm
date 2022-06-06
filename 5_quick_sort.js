@@ -24,4 +24,3 @@ function quickSort(arr) {
 }
 
 console.log(quickSort(arr))
-console.log(`count = ${count}`)
