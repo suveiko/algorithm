@@ -1,4 +1,4 @@
-const arr = [1, 4, 5, 77, 10, 15, 21, 17, 2, 7, 8, 10, -2]
+const arr = [1, 4, 5, 77, 10, 15, 21, 17, 2, 7, 8, 10, -2, -5]
 let count = 0
 
 function selectionSort(arr) {
